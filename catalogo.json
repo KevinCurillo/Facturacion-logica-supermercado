@@ -1,0 +1,14 @@
+[
+  {"id": "arroz", "nombre": "Arroz 1 kg", "emoji": "🍚", "precio": 1.20, "tarifa0": true, "promo": false, "alcohol": false},
+  {"id": "leche", "nombre": "Leche entera 1 L", "emoji": "🥛", "precio": 1.05, "tarifa0": true, "promo": false, "alcohol": false},
+  {"id": "pan", "nombre": "Pan de agua (6 u.)", "emoji": "🍞", "precio": 0.90, "tarifa0": true, "promo": false, "alcohol": false},
+  {"id": "huevos", "nombre": "Huevos maple 30 u.", "emoji": "🥚", "precio": 4.80, "tarifa0": true, "promo": true, "alcohol": false},
+  {"id": "aceite", "nombre": "Aceite 1 L", "emoji": "🫒", "precio": 2.80, "tarifa0": false, "promo": false, "alcohol": false},
+  {"id": "atun", "nombre": "Atún en lata", "emoji": "🐟", "precio": 1.45, "tarifa0": false, "promo": true, "alcohol": false},
+  {"id": "cola", "nombre": "Gaseosa 2 L", "emoji": "🥤", "precio": 2.10, "tarifa0": false, "promo": true, "alcohol": false},
+  {"id": "cafe", "nombre": "Café molido 250 g", "emoji": "☕", "precio": 3.20, "tarifa0": false, "promo": false, "alcohol": false},
+  {"id": "detergente", "nombre": "Detergente 1 kg", "emoji": "🧼", "precio": 4.50, "tarifa0": false, "promo": false, "alcohol": false},
+  {"id": "cerveza", "nombre": "Cerveza (6 u.)", "emoji": "🍺", "precio": 6.50, "tarifa0": false, "promo": false, "alcohol": true},
+  {"id": "vino", "nombre": "Vino tinto 750 ml", "emoji": "🍷", "precio": 12.00, "tarifa0": false, "promo": false, "alcohol": true},
+  {"id": "licuadora", "nombre": "Licuadora 600 W", "emoji": "🥣", "precio": 65.00, "tarifa0": false, "promo": false, "alcohol": false}
+]
